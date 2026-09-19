@@ -1,0 +1,289 @@
+ticket_id,text,category,priority
+SYN-00130,"Tôi muốn thay đổi địa chỉ nhận hàng Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",DELIVERY,HIGH
+SYN-00234,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,URGENT
+SYN-00196,"Yêu cầu hoàn tiền của tôi đang chờ xử lý Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",REFUND,LOW
+SYN-00123,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,DELIVERY,HIGH
+SYN-00090,Tôi cần bản sao chứng từ thanh toán Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,URGENT
+SYN-00122,Trạng thái vận chuyển không thay đổi nhiều ngày Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,HIGH
+SYN-00228,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,HIGH
+SYN-00158,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,MEDIUM
+SYN-00066,Tôi cần bản sao chứng từ thanh toán Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,MEDIUM
+SYN-00087,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,BILLING,URGENT
+SYN-00254,Tôi không thể tải tệp lên hệ thống Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,MEDIUM
+SYN-00255,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,TECHNICAL,MEDIUM
+SYN-00258,Tính năng tìm kiếm trả về màn hình trắng Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,MEDIUM
+SYN-00204,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,LOW
+SYN-00231,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,REFUND,URGENT
+SYN-00116,Trạng thái vận chuyển không thay đổi nhiều ngày Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,MEDIUM
+SYN-00049,"Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",BILLING,LOW
+SYN-00006,Tôi muốn thay đổi email đăng nhập Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,LOW
+SYN-00051,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,BILLING,LOW
+SYN-00260,Tôi không thể tải tệp lên hệ thống Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,MEDIUM
+SYN-00096,Tôi cần bản sao chứng từ thanh toán Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,URGENT
+SYN-00210,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,MEDIUM
+SYN-00145,"Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",GENERAL,LOW
+SYN-00079,"Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",BILLING,HIGH
+SYN-00189,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,GENERAL,URGENT
+SYN-00186,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,URGENT
+SYN-00285,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,TECHNICAL,URGENT
+SYN-00133,Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,DELIVERY,URGENT
+SYN-00251,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,TECHNICAL,LOW
+SYN-00134,Trạng thái vận chuyển không thay đổi nhiều ngày Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,URGENT
+SYN-00002,Tài khoản của tôi đang bị khóa Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,LOW
+SYN-00125,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,DELIVERY,HIGH
+SYN-00266,Tôi không thể tải tệp lên hệ thống Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,HIGH
+SYN-00086,Số tiền trên hóa đơn tháng này không chính xác Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,URGENT
+SYN-00202,"Yêu cầu hoàn tiền của tôi đang chờ xử lý Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",REFUND,LOW
+SYN-00038,Tài khoản của tôi đang bị khóa Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,URGENT
+SYN-00023,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,ACCOUNT_ACCESS,MEDIUM
+SYN-00083,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,BILLING,HIGH
+SYN-00261,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,TECHNICAL,MEDIUM
+SYN-00007,"Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",ACCOUNT_ACCESS,LOW
+SYN-00154,"Làm thế nào để cập nhật thông tin liên hệ Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",GENERAL,LOW
+SYN-00027,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,ACCOUNT_ACCESS,HIGH
+SYN-00281,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,TECHNICAL,URGENT
+SYN-00188,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,URGENT
+SYN-00101,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,DELIVERY,LOW
+SYN-00211,Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,REFUND,MEDIUM
+SYN-00171,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,GENERAL,HIGH
+SYN-00106,"Tôi muốn thay đổi địa chỉ nhận hàng Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",DELIVERY,LOW
+SYN-00252,Tính năng tìm kiếm trả về màn hình trắng Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,LOW
+SYN-00035,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,ACCOUNT_ACCESS,HIGH
+SYN-00272,Tôi không thể tải tệp lên hệ thống Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,HIGH
+SYN-00114,Đơn hàng chỉ được giao một phần Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,MEDIUM
+SYN-00043,Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,ACCOUNT_ACCESS,URGENT
+SYN-00229,Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,REFUND,URGENT
+SYN-00074,Số tiền trên hóa đơn tháng này không chính xác Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,HIGH
+SYN-00033,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,ACCOUNT_ACCESS,HIGH
+SYN-00062,Số tiền trên hóa đơn tháng này không chính xác Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,MEDIUM
+SYN-00140,Trạng thái vận chuyển không thay đổi nhiều ngày Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,URGENT
+SYN-00056,Số tiền trên hóa đơn tháng này không chính xác Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,LOW
+SYN-00242,Tôi không thể tải tệp lên hệ thống Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,LOW
+SYN-00224,Khoản hoàn tiền chưa xuất hiện trong tài khoản Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,HIGH
+SYN-00005,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,ACCOUNT_ACCESS,LOW
+SYN-00107,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,DELIVERY,LOW
+SYN-00174,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,HIGH
+SYN-00010,"Mã xác thực đăng nhập không được gửi tới điện thoại Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",ACCOUNT_ACCESS,LOW
+SYN-00203,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,REFUND,LOW
+SYN-00218,Khoản hoàn tiền chưa xuất hiện trong tài khoản Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,HIGH
+SYN-00286,Thông báo không xuất hiện dù đã bật trong cài đặt KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,TECHNICAL,URGENT
+SYN-00124,"Tôi muốn thay đổi địa chỉ nhận hàng Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",DELIVERY,HIGH
+SYN-00201,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,REFUND,LOW
+SYN-00212,Khoản hoàn tiền chưa xuất hiện trong tài khoản Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,MEDIUM
+SYN-00200,Khoản hoàn tiền chưa xuất hiện trong tài khoản Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,LOW
+SYN-00244,"Thông báo không xuất hiện dù đã bật trong cài đặt Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",TECHNICAL,LOW
+SYN-00277,Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,TECHNICAL,URGENT
+SYN-00288,Tính năng tìm kiếm trả về màn hình trắng Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,URGENT
+SYN-00067,Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,BILLING,MEDIUM
+SYN-00236,Khoản hoàn tiền chưa xuất hiện trong tài khoản Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,URGENT
+SYN-00209,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,REFUND,MEDIUM
+SYN-00052,"Tôi cần cập nhật phương thức thanh toán Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",BILLING,LOW
+SYN-00105,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,DELIVERY,LOW
+SYN-00179,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,GENERAL,HIGH
+SYN-00284,Tôi không thể tải tệp lên hệ thống Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,URGENT
+SYN-00206,Khoản hoàn tiền chưa xuất hiện trong tài khoản Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,MEDIUM
+SYN-00192,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,URGENT
+SYN-00121,"Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",DELIVERY,HIGH
+SYN-00269,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,TECHNICAL,HIGH
+SYN-00034,"Mã xác thực đăng nhập không được gửi tới điện thoại Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",ACCOUNT_ACCESS,HIGH
+SYN-00022,Mã xác thực đăng nhập không được gửi tới điện thoại Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,ACCOUNT_ACCESS,MEDIUM
+SYN-00071,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,BILLING,MEDIUM
+SYN-00061,Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,BILLING,MEDIUM
+SYN-00085,Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,BILLING,URGENT
+SYN-00160,Làm thế nào để cập nhật thông tin liên hệ Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,GENERAL,MEDIUM
+SYN-00149,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,GENERAL,LOW
+SYN-00139,Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,DELIVERY,URGENT
+SYN-00185,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,GENERAL,URGENT
+SYN-00162,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,MEDIUM
+SYN-00270,Tính năng tìm kiếm trả về màn hình trắng Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,HIGH
+SYN-00232,Yêu cầu hoàn tiền của tôi đang chờ xử lý KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,REFUND,URGENT
+SYN-00011,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,ACCOUNT_ACCESS,LOW
+SYN-00073,"Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",BILLING,HIGH
+SYN-00243,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,TECHNICAL,LOW
+SYN-00008,Tài khoản của tôi đang bị khóa Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,LOW
+SYN-00031,"Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",ACCOUNT_ACCESS,HIGH
+SYN-00152,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,LOW
+SYN-00104,Trạng thái vận chuyển không thay đổi nhiều ngày Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,LOW
+SYN-00047,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,ACCOUNT_ACCESS,URGENT
+SYN-00199,"Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",REFUND,LOW
+SYN-00191,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,GENERAL,URGENT
+SYN-00225,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,REFUND,HIGH
+SYN-00197,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,REFUND,LOW
+SYN-00077,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,BILLING,HIGH
+SYN-00132,Đơn hàng chỉ được giao một phần Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,HIGH
+SYN-00157,Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,GENERAL,MEDIUM
+SYN-00100,"Tôi muốn thay đổi địa chỉ nhận hàng Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",DELIVERY,LOW
+SYN-00194,Khoản hoàn tiền chưa xuất hiện trong tài khoản Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,LOW
+SYN-00223,"Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",REFUND,HIGH
+SYN-00147,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,GENERAL,LOW
+SYN-00257,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,TECHNICAL,MEDIUM
+SYN-00020,Tài khoản của tôi đang bị khóa Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,MEDIUM
+SYN-00220,"Yêu cầu hoàn tiền của tôi đang chờ xử lý Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",REFUND,HIGH
+SYN-00078,Tôi cần bản sao chứng từ thanh toán Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,HIGH
+SYN-00167,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,GENERAL,MEDIUM
+SYN-00265,"Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",TECHNICAL,HIGH
+SYN-00108,Đơn hàng chỉ được giao một phần Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,LOW
+SYN-00039,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,ACCOUNT_ACCESS,URGENT
+SYN-00178,"Làm thế nào để cập nhật thông tin liên hệ Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",GENERAL,HIGH
+SYN-00135,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,DELIVERY,URGENT
+SYN-00028,"Mã xác thực đăng nhập không được gửi tới điện thoại Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",ACCOUNT_ACCESS,HIGH
+SYN-00046,Mã xác thực đăng nhập không được gửi tới điện thoại KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,ACCOUNT_ACCESS,URGENT
+SYN-00129,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,DELIVERY,HIGH
+SYN-00273,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,TECHNICAL,HIGH
+SYN-00001,"Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",ACCOUNT_ACCESS,LOW
+SYN-00253,Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,TECHNICAL,MEDIUM
+SYN-00151,"Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",GENERAL,LOW
+SYN-00275,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,TECHNICAL,HIGH
+SYN-00239,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,REFUND,URGENT
+SYN-00153,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,GENERAL,LOW
+SYN-00088,Tôi cần cập nhật phương thức thanh toán KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,BILLING,URGENT
+SYN-00182,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,URGENT
+SYN-00205,Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,REFUND,MEDIUM
+SYN-00030,Tôi muốn thay đổi email đăng nhập Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,HIGH
+SYN-00003,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,ACCOUNT_ACCESS,LOW
+SYN-00240,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,URGENT
+SYN-00065,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,BILLING,MEDIUM
+SYN-00136,Tôi muốn thay đổi địa chỉ nhận hàng KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,DELIVERY,URGENT
+SYN-00274,"Thông báo không xuất hiện dù đã bật trong cài đặt Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",TECHNICAL,HIGH
+SYN-00256,Thông báo không xuất hiện dù đã bật trong cài đặt Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,TECHNICAL,MEDIUM
+SYN-00099,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,DELIVERY,LOW
+SYN-00268,"Thông báo không xuất hiện dù đã bật trong cài đặt Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",TECHNICAL,HIGH
+SYN-00109,Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,DELIVERY,MEDIUM
+SYN-00041,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,ACCOUNT_ACCESS,URGENT
+SYN-00040,Mã xác thực đăng nhập không được gửi tới điện thoại KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,ACCOUNT_ACCESS,URGENT
+SYN-00029,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,ACCOUNT_ACCESS,HIGH
+SYN-00287,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,TECHNICAL,URGENT
+SYN-00024,Tôi muốn thay đổi email đăng nhập Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,MEDIUM
+SYN-00127,"Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",DELIVERY,HIGH
+SYN-00131,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,DELIVERY,HIGH
+SYN-00169,"Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",GENERAL,HIGH
+SYN-00190,Làm thế nào để cập nhật thông tin liên hệ KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,GENERAL,URGENT
+SYN-00233,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,REFUND,URGENT
+SYN-00183,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,GENERAL,URGENT
+SYN-00193,"Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",REFUND,LOW
+SYN-00110,Trạng thái vận chuyển không thay đổi nhiều ngày Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,MEDIUM
+SYN-00150,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,LOW
+SYN-00235,Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,REFUND,URGENT
+SYN-00245,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,TECHNICAL,LOW
+SYN-00144,Đơn hàng chỉ được giao một phần Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,URGENT
+SYN-00064,Tôi cần cập nhật phương thức thanh toán Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,BILLING,MEDIUM
+SYN-00036,Tôi muốn thay đổi email đăng nhập Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,HIGH
+SYN-00250,"Thông báo không xuất hiện dù đã bật trong cài đặt Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",TECHNICAL,LOW
+SYN-00037,Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,ACCOUNT_ACCESS,URGENT
+SYN-00246,Tính năng tìm kiếm trả về màn hình trắng Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,LOW
+SYN-00165,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,GENERAL,MEDIUM
+SYN-00271,"Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",TECHNICAL,HIGH
+SYN-00128,Trạng thái vận chuyển không thay đổi nhiều ngày Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,HIGH
+SYN-00168,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,MEDIUM
+SYN-00249,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,TECHNICAL,LOW
+SYN-00184,Làm thế nào để cập nhật thông tin liên hệ KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,GENERAL,URGENT
+SYN-00146,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,LOW
+SYN-00055,"Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",BILLING,LOW
+SYN-00278,Tôi không thể tải tệp lên hệ thống Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,URGENT
+SYN-00208,Yêu cầu hoàn tiền của tôi đang chờ xử lý Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,REFUND,MEDIUM
+SYN-00103,"Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",DELIVERY,LOW
+SYN-00081,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,BILLING,HIGH
+SYN-00009,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,ACCOUNT_ACCESS,LOW
+SYN-00226,"Yêu cầu hoàn tiền của tôi đang chờ xử lý Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",REFUND,HIGH
+SYN-00015,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,ACCOUNT_ACCESS,MEDIUM
+SYN-00084,Tôi cần bản sao chứng từ thanh toán Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,HIGH
+SYN-00176,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,HIGH
+SYN-00057,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,BILLING,LOW
+SYN-00262,Thông báo không xuất hiện dù đã bật trong cài đặt Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,TECHNICAL,MEDIUM
+SYN-00177,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,GENERAL,HIGH
+SYN-00164,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,MEDIUM
+SYN-00070,Tôi cần cập nhật phương thức thanh toán Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,BILLING,MEDIUM
+SYN-00222,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,HIGH
+SYN-00119,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,DELIVERY,MEDIUM
+SYN-00238,Yêu cầu hoàn tiền của tôi đang chờ xử lý KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,REFUND,URGENT
+SYN-00063,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,BILLING,MEDIUM
+SYN-00247,"Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",TECHNICAL,LOW
+SYN-00137,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,DELIVERY,URGENT
+SYN-00044,Tài khoản của tôi đang bị khóa Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,URGENT
+SYN-00216,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,MEDIUM
+SYN-00156,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,LOW
+SYN-00019,Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,ACCOUNT_ACCESS,MEDIUM
+SYN-00166,Làm thế nào để cập nhật thông tin liên hệ Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,GENERAL,MEDIUM
+SYN-00263,Ứng dụng chạy rất chậm sau bản cập nhật Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,TECHNICAL,MEDIUM
+SYN-00180,Tôi cần hướng dẫn bắt đầu sử dụng sản phẩm Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,GENERAL,HIGH
+SYN-00069,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,BILLING,MEDIUM
+SYN-00172,"Làm thế nào để cập nhật thông tin liên hệ Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",GENERAL,HIGH
+SYN-00054,Tôi cần bản sao chứng từ thanh toán Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,LOW
+SYN-00091,Tôi bị tính phí hai lần cho cùng một dịch vụ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,BILLING,URGENT
+SYN-00095,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,BILLING,URGENT
+SYN-00042,Tôi muốn thay đổi email đăng nhập Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,URGENT
+SYN-00094,Tôi cần cập nhật phương thức thanh toán KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,BILLING,URGENT
+SYN-00214,Yêu cầu hoàn tiền của tôi đang chờ xử lý Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,REFUND,MEDIUM
+SYN-00163,Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,GENERAL,MEDIUM
+SYN-00117,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,DELIVERY,MEDIUM
+SYN-00283,Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,TECHNICAL,URGENT
+SYN-00098,Trạng thái vận chuyển không thay đổi nhiều ngày Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,DELIVERY,LOW
+SYN-00026,Tài khoản của tôi đang bị khóa Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,HIGH
+SYN-00060,Tôi cần bản sao chứng từ thanh toán Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,LOW
+SYN-00219,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,REFUND,HIGH
+SYN-00241,"Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",TECHNICAL,LOW
+SYN-00075,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,BILLING,HIGH
+SYN-00198,Sản phẩm lỗi và tôi muốn trả lại để nhận hoàn tiền Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,REFUND,LOW
+SYN-00059,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,BILLING,LOW
+SYN-00170,Cho tôi hỏi dịch vụ hiện hỗ trợ những khu vực nào Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,GENERAL,HIGH
+SYN-00248,Tôi không thể tải tệp lên hệ thống Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,TECHNICAL,LOW
+SYN-00018,Tôi muốn thay đổi email đăng nhập Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,MEDIUM
+SYN-00181,Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,GENERAL,URGENT
+SYN-00050,Số tiền trên hóa đơn tháng này không chính xác Tôi chỉ cần biết thêm thông tin trong vài ngày tới. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,LOW
+SYN-00148,"Làm thế nào để cập nhật thông tin liên hệ Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",GENERAL,LOW
+SYN-00093,Thẻ thanh toán bị từ chối nhưng vẫn bị giữ tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,BILLING,URGENT
+SYN-00221,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,REFUND,HIGH
+SYN-00227,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,REFUND,HIGH
+SYN-00159,Tôi cần thông tin về các gói dịch vụ hiện có Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,GENERAL,MEDIUM
+SYN-00161,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,GENERAL,MEDIUM
+SYN-00213,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,REFUND,MEDIUM
+SYN-00076,"Tôi cần cập nhật phương thức thanh toán Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",BILLING,HIGH
+SYN-00142,Tôi muốn thay đổi địa chỉ nhận hàng KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,DELIVERY,URGENT
+SYN-00021,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,ACCOUNT_ACCESS,MEDIUM
+SYN-00097,"Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Không gấp, vui lòng phản hồi khi thuận tiện.",DELIVERY,LOW
+SYN-00237,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,REFUND,URGENT
+SYN-00032,Tài khoản của tôi đang bị khóa Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,HIGH
+SYN-00138,Đơn hàng chỉ được giao một phần Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,URGENT
+SYN-00118,Tôi muốn thay đổi địa chỉ nhận hàng Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,DELIVERY,MEDIUM
+SYN-00187,Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động.,GENERAL,URGENT
+SYN-00012,Tôi muốn thay đổi email đăng nhập Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,LOW
+SYN-00207,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,REFUND,MEDIUM
+SYN-00068,Số tiền trên hóa đơn tháng này không chính xác Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,MEDIUM
+SYN-00155,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,GENERAL,LOW
+SYN-00089,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,BILLING,URGENT
+SYN-00264,Tính năng tìm kiếm trả về màn hình trắng Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,MEDIUM
+SYN-00092,Số tiền trên hóa đơn tháng này không chính xác Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,URGENT
+SYN-00025,"Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",ACCOUNT_ACCESS,HIGH
+SYN-00195,Tôi nhận sai sản phẩm và muốn được hoàn tiền Vui lòng cho biết thêm bước khắc phục nếu cần. Vấn đề này chưa ảnh hưởng đến công việc hiện tại.,REFUND,LOW
+SYN-00276,Tính năng tìm kiếm trả về màn hình trắng Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,HIGH
+SYN-00282,Tính năng tìm kiếm trả về màn hình trắng Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,TECHNICAL,URGENT
+SYN-00173,Tôi muốn đóng góp ý kiến về trải nghiệm sử dụng Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Nhiều người dùng đang bị ảnh hưởng nghiêm trọng.,GENERAL,HIGH
+SYN-00111,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ.,DELIVERY,MEDIUM
+SYN-00080,Số tiền trên hóa đơn tháng này không chính xác Nhiều người dùng đang bị ảnh hưởng nghiêm trọng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,BILLING,HIGH
+SYN-00267,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Chúng tôi không thể hoàn thành tác vụ quan trọng.,TECHNICAL,HIGH
+SYN-00175,"Tôi muốn biết giờ làm việc của bộ phận hỗ trợ Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",GENERAL,HIGH
+SYN-00279,Trang web hiển thị lỗi máy chủ khi lưu dữ liệu Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,TECHNICAL,URGENT
+SYN-00082,"Tôi cần cập nhật phương thức thanh toán Việc này đang chặn công việc của cả nhóm, cần xử lý sớm. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",BILLING,HIGH
+SYN-00004,"Mã xác thực đăng nhập không được gửi tới điện thoại Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",ACCOUNT_ACCESS,LOW
+SYN-00143,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn.,DELIVERY,URGENT
+SYN-00230,Khoản hoàn tiền chưa xuất hiện trong tài khoản Cần xử lý ngay lập tức vì hệ thống đang gián đoạn hoàn toàn. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,REFUND,URGENT
+SYN-00113,Sản phẩm bị hư hỏng trong quá trình vận chuyển Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,DELIVERY,MEDIUM
+SYN-00215,Tôi cần kiểm tra trạng thái khoản tiền được hoàn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,REFUND,MEDIUM
+SYN-00102,Đơn hàng chỉ được giao một phần Vấn đề này chưa ảnh hưởng đến công việc hiện tại. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,LOW
+SYN-00014,Tài khoản của tôi đang bị khóa Vấn đề đang gây bất tiện cho một người dùng. Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn.,ACCOUNT_ACCESS,MEDIUM
+SYN-00259,Ứng dụng bị treo mỗi khi tôi mở trang chính Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,TECHNICAL,MEDIUM
+SYN-00120,Đơn hàng chỉ được giao một phần Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,MEDIUM
+SYN-00112,Tôi muốn thay đổi địa chỉ nhận hàng Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,DELIVERY,MEDIUM
+SYN-00048,Tôi muốn thay đổi email đăng nhập Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng. Vui lòng cho biết thêm bước khắc phục nếu cần.,ACCOUNT_ACCESS,URGENT
+SYN-00016,Mã xác thực đăng nhập không được gửi tới điện thoại Mong nhận được phản hồi trong hôm nay. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,ACCOUNT_ACCESS,MEDIUM
+SYN-00017,Phiên đăng nhập liên tục bị hết hạn Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Vấn đề đang gây bất tiện cho một người dùng.,ACCOUNT_ACCESS,MEDIUM
+SYN-00217,"Tôi muốn yêu cầu hoàn tiền cho đơn đã hủy Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Việc này đang chặn công việc của cả nhóm, cần xử lý sớm.",REFUND,HIGH
+SYN-00045,Tôi quên mật khẩu và cần lấy lại quyền truy cập Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,ACCOUNT_ACCESS,URGENT
+SYN-00280,Thông báo không xuất hiện dù đã bật trong cài đặt KHẨN CẤP: toàn bộ dịch vụ đã ngừng hoạt động. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.,TECHNICAL,URGENT
+SYN-00053,Gói dịch vụ đã hủy nhưng vẫn phát sinh phí Tôi đã làm theo hướng dẫn cơ bản nhưng vấn đề vẫn còn. Tôi chỉ cần biết thêm thông tin trong vài ngày tới.,BILLING,LOW
+SYN-00072,Tôi cần bản sao chứng từ thanh toán Xin hỗ trợ sớm để tôi tiếp tục sử dụng dịch vụ. Vui lòng cho biết thêm bước khắc phục nếu cần.,BILLING,MEDIUM
+SYN-00115,Đơn hàng chưa được giao theo lịch dự kiến Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,DELIVERY,MEDIUM
+SYN-00126,Đơn hàng chỉ được giao một phần Chúng tôi không thể hoàn thành tác vụ quan trọng. Vui lòng cho biết thêm bước khắc phục nếu cần.,DELIVERY,HIGH
+SYN-00141,Bưu kiện được báo đã giao nhưng tôi chưa nhận được Vui lòng cho biết thêm bước khắc phục nếu cần. Sự cố nghiêm trọng đang ảnh hưởng tất cả người dùng.,DELIVERY,URGENT
+SYN-00013,Tôi không thể đăng nhập vào tài khoản Tôi đã thử lại trên trình duyệt khác nhưng chưa được. Mong nhận được phản hồi trong hôm nay.,ACCOUNT_ACCESS,MEDIUM
+SYN-00058,"Tôi cần cập nhật phương thức thanh toán Không gấp, vui lòng phản hồi khi thuận tiện. Tôi đã thử lại trên trình duyệt khác nhưng chưa được.",BILLING,LOW
